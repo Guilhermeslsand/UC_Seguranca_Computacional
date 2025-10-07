@@ -6,3 +6,7 @@ Professor: Robson Calvetti
 [Tarefa_aula_3](Estudos_de_casos_de_ataque_cibenético_slide_aula_3.pdf)
 
 [Tarefa_aula_4](Pesquisa_sobre_criptografia.pdf)
+
+[Tarefa_aula_5](Criptografia_aula_5.pdf)
+
+[Codigos_tarefa_aula_5](codigo_python_aula_5)
