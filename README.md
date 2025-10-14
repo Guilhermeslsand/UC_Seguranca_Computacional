@@ -10,3 +10,7 @@ Professor: Robson Calvetti
 [Tarefa_aula_5](Criptografia_aula_5.pdf)
 
 [Codigos_tarefa_aula_5](codigo_python_aula_5)
+
+[Tarefa 1 aula 6](Politicas.pdf)
+
+[Tarefa 2 aula 6](ISO27001XPCI.pdf)
