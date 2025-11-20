@@ -1,7 +1,7 @@
 # Tarefas da UC de Sistemas Computacionais e Segurança
 Professor: Robson Calvetti
 
-Professor. Eu não tinha separado as tarefas por pastas no começo. Então quando decidi fazer isso vi que ao mover os trabalhos para pastas a data do commit mudava no arquivo.
+Professor, eu não tinha separado as tarefas por pastas no começo. Então quando decidi fazer isso vi que ao mover os trabalhos para pastas a data do commit mudava no arquivo.
 
 Então, eu coloquei nas pastas das aulas as tarefas, mas também deixei como estava antes para não perder as datas do commits e mostrar que enviei os trabalhos na data correta.
 
