@@ -29,6 +29,6 @@ Por isso que tem as pastas das aulas mas também tem os trabalhos na raiz. Os tr
 
 [Tarefa aula 8](aula8/Aula_8_Plano_de_continuidade.pdf)
 
-![Projeto_A3_pdf](a3/A3_Sistemas_Computacional_Segurança.pdf)
+[Projeto_A3_pdf](a3/A3_Sistemas_Computacional_Segurança.pdf)
 
-![Projeto_A3_apresentaçao](a3/Projeto SMGS- A3 CALVETTI - Sistemas Computacionais e Segurança.pptx)
+[Projeto_A3_apresentaçao](a3/Projeto SMGS- A3 CALVETTI - Sistemas Computacionais e Segurança.pptx)
